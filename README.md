@@ -1,7 +1,7 @@
 # Sir-knows-a-lot
 Sir-knows-a-lot is a small quiz app that will test your popular knowledge with 10 random trivia questions. 
 
-*This small app is designed to fullfill the application requirements for the Software Engineering Apprenticeship Program at tandem.*
+*This small app is designed to fullfill the application requirements for the Software Engineering Apprenticeship Program at Tandem.*
 > Visit the live site [here.](https://quirosfelipe.github.io/sir-knows-a-lot/)
 
 # Key Features
@@ -18,3 +18,6 @@ Sir-knows-a-lot is a small quiz app that will test your popular knowledge with 1
 - JavaScript
 - HTML
 - CSS (with custom properties)
+
+## Screenshots
+[![Screen-Shot-2020-10-27-at-4-17-19-PM.png](https://i.postimg.cc/vm51NstL/Screen-Shot-2020-10-27-at-4-17-19-PM.png)](https://postimg.cc/yJYYD25k)
