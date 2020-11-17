@@ -1,5 +1,7 @@
 const questions = [
   {
+<<<<<<< HEAD
+=======
     question: "What was Tandem previous name?",
     answers: [
       { text: "Tandem", correct: false },
@@ -9,6 +11,7 @@ const questions = [
     ],
   },
   {
+>>>>>>> 32dc369be640dbe4fb00338067723fc372921993
     question:
       "In Shakespeare's play Julius Caesar, Caesar's last words were...",
     answers: [
