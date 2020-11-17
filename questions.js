@@ -1,17 +1,5 @@
 const questions = [
   {
-<<<<<<< HEAD
-=======
-    question: "What was Tandem previous name?",
-    answers: [
-      { text: "Tandem", correct: false },
-      { text: "Devmynd", correct: true },
-      { text: "Burger Shack", correct: false },
-      { text: "Extraordinary Humans", correct: false },
-    ],
-  },
-  {
->>>>>>> 32dc369be640dbe4fb00338067723fc372921993
     question:
       "In Shakespeare's play Julius Caesar, Caesar's last words were...",
     answers: [
